@@ -16,7 +16,7 @@ from funciones import (
 
 def main():
     """
-    Función principal que ejecuta el flujo completo del programa.
+    Función principal que ejecuta el flujo completo del programa del parcial.
     """
     print("=" * 50)
     print("BANCO DE ALIMENTOS - MEDELLÍN")
@@ -64,6 +64,7 @@ def main():
     print("\nPrograma finalizado.")
 
 
+
 # Ejecución del programa
-if __name__ == "__main__":
+if __name__ ==   "__main__":
     main()
